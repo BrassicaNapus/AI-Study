@@ -1,5 +1,5 @@
 # AI-Study
-AI 공부한 기록들입니다.
+AI 공부 기록
 
 [가중치 업데이트(wx)](https://raw.githubusercontent.com/yujungha/AI-Study/main/wx%20%2B%20b.jpg)
 
